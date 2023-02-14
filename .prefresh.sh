@@ -2,6 +2,7 @@
 
 while true
 do
+
     clear
     pfetch
     sleep 60
