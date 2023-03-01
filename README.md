@@ -1,4 +1,4 @@
-# ADDED BATTERY MODULE TO POLYBAR
+# (No upcoming updates if not requested)
 
 # cyan-i3
 
